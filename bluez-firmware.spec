@@ -1,5 +1,5 @@
 Summary:	Bluetooth Firmware data
-Summary(pl):	Dane firmware do urz±dzeñ Bluetooth
+Summary(pl.UTF-8):   Dane firmware do urzÄ…dzeÅ„ Bluetooth
 Name:		bluez-firmware
 Version:	1.2
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Bluetooth Firmware data.
 
-%description -l pl
-Dane firmware do urz±dzeñ Bluetooth.
+%description -l pl.UTF-8
+Dane firmware do urzÄ…dzeÅ„ Bluetooth.
 
 %prep
 %setup -q
