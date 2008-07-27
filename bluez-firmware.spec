@@ -2,7 +2,7 @@ Summary:	Bluetooth Firmware data
 Summary(pl.UTF-8):	Dane firmware do urządzeń Bluetooth
 Name:		bluez-firmware
 Version:	1.2
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/System
 #Source0Download: http://www.bluez.org/download.html
